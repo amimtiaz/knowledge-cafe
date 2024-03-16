@@ -1,0 +1,52 @@
+[
+    {
+        "id": 123456,
+        "cover": "https://example.com/cover1.jpg",
+        "title": "The Galactic Odyssey",
+        "author": "Celeste Nova",
+        "author_img": "https://example.com/img1.jpg",
+        "posted_date": "2024-03-10",
+        "reading_time": 45,
+        "hashtags": ["#SciFi", "#Adventure", "#Space"]
+    },
+    {
+        "id": 987654,
+        "cover": "https://example.com/cover2.jpg",
+        "title": "Secrets of the Ancient Ruins",
+        "author": "Aiden Frost",
+        "author_img": "https://example.com/img2.jpg",
+        "posted_date": "2024-03-11",
+        "reading_time": 30,
+        "hashtags": ["#Mystery", "#Archaeology", "#Adventure"]
+    },
+    {
+        "id": 234567,
+        "cover": "https://example.com/cover3.jpg",
+        "title": "Beyond the Horizon",
+        "author": "Maya Starlight",
+        "author_img": "https://example.com/img3.jpg",
+        "posted_date": "2024-03-12",
+        "reading_time": 60,
+        "hashtags": ["#Fantasy", "#Magic", "#Quest"]
+    },
+    {
+        "id": 765432,
+        "cover": "https://example.com/cover4.jpg",
+        "title": "The Enigma Code",
+        "author": "Ethan Shadow",
+        "author_img": "https://example.com/img4.jpg",
+        "posted_date": "2024-03-13",
+        "reading_time": 40,
+        "hashtags": ["#Thriller", "#Mystery", "#Codebreaking"]
+    },
+    {
+        "id": 345678,
+        "cover": "https://example.com/cover5.jpg",
+        "title": "Echoes of Eternity",
+        "author": "Luna Evergreen",
+        "author_img": "https://example.com/img5.jpg",
+        "posted_date": "2024-03-14",
+        "reading_time": 50,
+        "hashtags": ["#Romance", "#TimeTravel", "#Destiny"]
+    }
+]
